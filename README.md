@@ -1,2 +1,2 @@
-# chipwhisperer-examples
-ChipWhisperer Examples (mostly sample traces)
+# ChipWhisperer-Examples
+This repo contains various examples from the ChipWhisperer wiki [chipwhisperer.com](chipwhisperer.com). This can be useful for performing the examples without having actual hardware.
