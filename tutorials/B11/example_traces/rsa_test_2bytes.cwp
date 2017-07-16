@@ -1,0 +1,16 @@
+[Trace Management]
+tracefile0 = rsa_test_2bytes_data\traces\config_2017.07.15-21.56.26_.cfg
+enabled0 = True
+tracefile1 = rsa_test_2bytes_data\traces\config_2017.07.15-21.56.36_.cfg
+enabled1 = True
+tracefile2 = rsa_test_2bytes_data\traces\config_2017.07.15-21.56.44_.cfg
+enabled2 = True
+tracefile3 = rsa_test_2bytes_data\traces\config_2017.07.15-21.56.52_.cfg
+enabled3 = True
+[ChipWhisperer]
+[[General Settings]]
+Project Name = Untitled
+Program Name = ChipWhisperer
+Project File Version = 1.00
+Project Author = Unknown
+Program Version = V3.5.1
