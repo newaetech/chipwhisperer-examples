@@ -1,0 +1,10 @@
+[Trace Management]
+tracefile0 = stm32f3_mbedtls_aes_500traces_data\traces\config_2017.07.18-10.14.51_.cfg
+enabled0 = True
+[ChipWhisperer]
+[[General Settings]]
+Project Name = Untitled
+Program Name = ChipWhisperer
+Project File Version = 1.00
+Project Author = Unknown
+Program Version = V3.5.3
